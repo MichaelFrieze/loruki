@@ -78,6 +78,10 @@ pre {
   border-bottom: 2px #fff solid;
 }
 
+.logo a:hover {
+  border-bottom: none;
+}
+
 .navbar .flex {
   justify-content: space-between;
 }
