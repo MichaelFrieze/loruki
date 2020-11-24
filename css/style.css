@@ -52,6 +52,12 @@ pre {
   padding: 10px;
 }
 
+input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
 .hidden {
   visibility: hidden;
   height: 0;
